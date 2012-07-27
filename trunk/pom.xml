@@ -20,11 +20,11 @@
             <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
         </license>
     </licenses>
-    <!-- <scm>
+     <scm>
         <url>http://code.google.com/p/jfx-autocomplete-textfield/source/browse</url>
         <connection>scm:svn:https://jfx-autocomplete-textfield.googlecode.com/svn/trunk</connection>
         <developerConnection>scm:svn:https://jfx-autocomplete-textfield.googlecode.com/svn/trunk</developerConnection>
-    </scm> -->
+    </scm> 
     <organization>
         <name>myTDev</name>
         <url>http://mytdev.com</url>
